@@ -21,4 +21,4 @@ Each 16-byte block is represented as a rectangle with:
 
 ### Encoding
 ```bash
-python encoder.py input_file output_directory
+python encoder.py "input_file_path" "output_directory"
