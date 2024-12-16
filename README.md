@@ -12,8 +12,7 @@ A unique file encoding and decoding system that transforms binary data into a vi
 - Built-in error checking with file checksum verification
 
 ## How It Works
-Each 16-byte block is represented as a rectangle with:
-- Width-to-height ratio encoding the first byte
+Each 15-byte block is represented as a rectangle with:
 - Trapezoids and inner rectangle colored to represent data
 - Header and footer blocks for file metadata and verification
 
