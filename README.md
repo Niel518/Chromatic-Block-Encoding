@@ -1,7 +1,7 @@
 # Chromatic Block Encoding
 
 ## Overview
-A unique file encoding and decoding system that transforms binary data into a visually structured image representation. This project allows you to encode any file into a PNG image where data is embedded using geometric shapes and color-coded sections, and then decode it back to the original file.
+A file encoding and decoding system that transforms binary data into a visually structured image representation. This encoder turns any file into a PNG image where data is embedded using geometric shapes and color-coded sections, and then the decoder turns it back to the original file.
 
 ## Key Features
 - Encode any file into a visually intricate PNG image
